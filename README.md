@@ -3,7 +3,7 @@ Unityでのテクスチャお絵描きをWebGLビルドしたサンプルです�
 
 # Demo
 動作確認用ページは以下。<br>
-https://kazuhito00.github.io/Unity-MousePaint-WebGL-Sample/WebGL-Build
+[https://kazuhito00.github.io/Unity-MousePaint-WebGL-Sample/WebGL-Build](https://kazuhito00.github.io/Unity-MousePaint-WebGL-Sample/WebGL-Build/index.html)
 
 # Requirement 
 * Unity 2020.1.6f1 or later
